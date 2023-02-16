@@ -4,8 +4,7 @@
 
 /**
  * main - prints " Programming is like building a multilingual puzzle, followed by a new line."
-n
- * Return: 0 (Success)
+ * Return: Always 0. 
  * /
  
  
