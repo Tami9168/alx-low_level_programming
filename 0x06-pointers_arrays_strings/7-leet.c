@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
  * leet - encode into 1337speak
  * @n: input value
@@ -22,5 +22,4 @@ char *leet(char *n)
 	}
 	return (n);
 }
-
 
